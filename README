@@ -1,1 +1,3 @@
 A board game similar to Snake and Ladders but has continuous tracks and includes traps and power ups from fantasy racing games.
+
+Will be written in Python, first will be a CLI prototype then hopefully a web and a flash versions.
