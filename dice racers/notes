@@ -1,0 +1,8 @@
+bugs:
+- problem on powerup and movement display..
+- standing is working but on racer finish: "if first is 0 and second is 1, second will become first and first will be second"
+- some traps dont trigger a trap event for racers esp in the mid point of the race track
+
+
+working on:
+- the Ace Missile's First in position target
